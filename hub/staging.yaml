@@ -112,3 +112,4 @@ spec:
         - op: add
           path: /spec/serviceAccountName
           value: flux-restricted
+
